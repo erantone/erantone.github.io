@@ -30,7 +30,7 @@ My recent work focuses on learning policies for autonomous vehicles, imitation l
 
 ## Research group
 
-I coordinate research activities in the **[GSAI — Intelligent Autonomous Systems Group](https://erantone.github.io/gsai/)** at UFSC. The group's website contains current projects, members, collaboration, news, and research demonstrations.
+I coordinate research activities in the **[GSAI — Intelligent Autonomous Systems Group](https://gsai.ufsc.br/)** at UFSC. The group's website contains current projects, members, collaboration, news, and research demonstrations.
 
 ## Profiles
 
