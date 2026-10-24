@@ -25,4 +25,4 @@ The historical portfolio also documented selected software projects and consulta
 
 ---
 
-For current research demonstrations, videos, projects, and related papers, see **[GSAI — Demos](https://erantone.github.io/gsai/#videos)**.
+For current research demonstrations, videos, projects, and related papers, see **[GSAI — Demos](https://gsai.ufsc.br/#videos)**.
