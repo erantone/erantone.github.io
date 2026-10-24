@@ -22,7 +22,7 @@ description: Contact information and academic profiles of Eric Aislan Antonelo a
       <li><a href="https://scholar.google.com/citations?user=fSiq-2kAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar ↗</a></li>
       <li><a href="https://lattes.cnpq.br/9164096321999079" target="_blank" rel="noopener noreferrer">Lattes CV ↗</a></li>
       <li><a href="https://orcid.org/0000-0002-7285-0974" target="_blank" rel="noopener noreferrer">ORCID ↗</a></li>
-      <li><a href="https://erantone.github.io/gsai/" target="_blank" rel="noopener noreferrer">GSAI — research group ↗</a></li>
+      <li><a href="https://gsai.ufsc.br/" target="_blank" rel="noopener noreferrer">GSAI — research group ↗</a></li>
       <li><a href="https://eas.ufsc.br/" target="_blank" rel="noopener noreferrer">EAS / UFSC ↗</a></li>
     </ul>
   </div>
