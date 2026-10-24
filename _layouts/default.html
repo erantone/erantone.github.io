@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0a101b">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Eric Aislan Antonelo · UFSC</title>
+  <meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Eric Aislan Antonelo · UFSC">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} · {% endif %}Eric Aislan Antonelo">
+  <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/icon.svg' | relative_url }}">
+</head>
+<body data-section="{{ page.nav | default: 'home' }}">
+  <a class="skip-link" href="#main">Skip to content</a>
+  {% include nav.html %}
+  <main id="main" class="container main-content">
+    {% if page.page_heading %}
+      <div class="page-head">
+        <span class="eyebrow">{{ page.eyebrow | default: 'ERIC A. ANTONELO / UFSC' }}</span>
+        <h1>{{ page.page_heading }}</h1>
+        {% if page.intro %}<p class="page-intro">{{ page.intro }}</p>{% endif %}
+      </div>
+    {% endif %}
+    {{ content }}
+  </main>
+  {% include footer.html %}
+  <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
+</body>
+</html>

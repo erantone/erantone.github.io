@@ -1,0 +1,14 @@
+title: Eric Aislan Antonelo
+short_title: Eric Antonelo
+description: Academic website of Eric Aislan Antonelo — research and teaching in artificial intelligence, machine learning, robotics, and control.
+author: Eric Aislan Antonelo
+lang: en
+url: "https://erantone.github.io"
+baseurl: "https://erantone.github.io"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
