@@ -13,7 +13,7 @@ description: Research areas of Eric Aislan Antonelo, including imitation learnin
 
 My work in autonomous systems investigates how learning agents can acquire reliable behavior from experience and demonstrations. Recent directions include **behavior cloning, generative adversarial imitation learning (GAIL), energy-based models, and diffusion-based policies**, particularly for autonomous driving in urban environments.
 
-Projects have explored perception and control using **Bird's-Eye View (BEV)** representations, the CARLA simulator, and miniature autonomous vehicles. Current group activities and demonstrations are documented at [GSAI](https://erantone.github.io/gsai/).
+Projects have explored perception and control using **Bird's-Eye View (BEV)** representations, the CARLA simulator, and miniature autonomous vehicles. Current group activities and demonstrations are documented at [GSAI](https://gsai.ufsc.br/).
 
 ## Physics-informed modeling and control {#physics-informed-control}
 
@@ -33,4 +33,4 @@ Applications of data-driven dynamical modeling include process monitoring, soft 
 
 ---
 
-For recent group projects, members, papers, and demonstrations, visit **[GSAI — Intelligent Autonomous Systems Group](https://erantone.github.io/gsai/)**. For a complete record of academic publications, see [Google Scholar](https://scholar.google.com/citations?user=fSiq-2kAAAAJ) or [Lattes](https://lattes.cnpq.br/9164096321999079).
+For recent group projects, members, papers, and demonstrations, visit **[GSAI — Intelligent Autonomous Systems Group](https://gsai.ufsc.br/)**. For a complete record of academic publications, see [Google Scholar](https://scholar.google.com/citations?user=fSiq-2kAAAAJ) or [Lattes](https://lattes.cnpq.br/9164096321999079).
