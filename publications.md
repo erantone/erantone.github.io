@@ -12,7 +12,7 @@ description: Publications by Eric Aislan Antonelo, with links to Google Scholar,
 For the **up-to-date bibliography with downloadable versions when available**, use the complete list on the GSAI website or my academic profiles.
 
 <div class="button-row">
-  <a class="button button-primary" href="https://erantone.github.io/gsai/publications.html" target="_blank" rel="noopener noreferrer">Full publications list ↗</a>
+  <a class="button button-primary" href="https://gsai.ufsc.br/publications.html" target="_blank" rel="noopener noreferrer">Full publications list ↗</a>
   <a class="button" href="https://scholar.google.com/citations?user=fSiq-2kAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar ↗</a>
   <a class="button" href="https://lattes.cnpq.br/9164096321999079" target="_blank" rel="noopener noreferrer">Lattes ↗</a>
 </div>
