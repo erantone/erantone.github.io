@@ -20,4 +20,4 @@ The entries above come from the recovered website archive. Links to the original
 
 ## Academic outreach
 
-I have also participated in academic presentations and training activities involving machine learning, reservoir computing, and intelligent systems. For recent group news and conference participation, visit [GSAI — News](https://erantone.github.io/gsai/news.html).
+I have also participated in academic presentations and training activities involving machine learning, reservoir computing, and intelligent systems. For recent group news and conference participation, visit [GSAI — News](https://gsai.ufsc.br/news.html).
