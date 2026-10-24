@@ -3,11 +3,14 @@ permalink: /teaching/introduction-to-programming/
 layout: default
 nav: teaching
 title: Introduction to Computing for Automation
-page_heading: Introdução à Informática para Automação
-eyebrow: UNDERGRADUATE COURSE · DAS5334
-intro: An introduction to programming and computational problem solving for students of Control and Automation Engineering at UFSC.
 description: DAS5334 — Introduction to Computing for Automation: syllabus, Python programming topics, laboratory activities, assessment, and references.
 ---
+
+<div class="page-head">
+  <span class="eyebrow">UNDERGRADUATE COURSE · DAS5334</span>
+  <h1>Introdução à Informática para Automação</h1>
+  <p class="page-intro">An introduction to programming and computational problem solving for students of Control and Automation Engineering at UFSC.</p>
+</div>
 
 <div class="course-meta"><span>Control and Automation Engineering · Undergraduate</span><span>4 credits</span><span>72 class hours</span><span>No prerequisite</span></div>
 
