@@ -13,12 +13,12 @@ I supervise and co-supervise students working on machine learning and autonomous
 
 ## Current group members
 
-Active members and their research interests are maintained on the **[GSAI — Members](https://erantone.github.io/gsai/#members)** page, where the information can be updated without duplicating it here.
+Active members and their research interests are maintained on the **[GSAI — Members](https://gsai.ufsc.br/#members)** page, where the information can be updated without duplicating it here.
 
 ## Completed graduate supervision
 
-The **[GSAI — Alumni](https://erantone.github.io/gsai/#alumni)** section highlights former graduate students. A complete historical record of theses, dissertations, and undergraduate projects can be consulted in my [Lattes CV](https://lattes.cnpq.br/9164096321999079).
+The **[GSAI — Alumni](https://gsai.ufsc.br/#alumni)** section highlights former graduate students. A complete historical record of theses, dissertations, and undergraduate projects can be consulted in my [Lattes CV](https://lattes.cnpq.br/9164096321999079).
 
 ## Prospective students
 
-Students interested in research related to intelligent autonomous systems, neural dynamical models, and learning-based control can review [recent projects](https://erantone.github.io/gsai/#research) and [contact me]({{ '/contact/' | relative_url }}) with a short description of their background and interests.
+Students interested in research related to intelligent autonomous systems, neural dynamical models, and learning-based control can review [recent projects](https://gsai.ufsc.br/#research) and [contact me]({{ '/contact/' | relative_url }}) with a short description of their background and interests.
